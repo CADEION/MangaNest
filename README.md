@@ -30,3 +30,14 @@ To run this project, you need the following:
    ```bash
    git clone https://github.com/YOUR_USERNAME/webtoon-app.git
    cd webtoon-app
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Instructions for Adding Screenshots:
+1. Inside your project directory, create a folder named `screenshots`.
+2. Place your screenshots (e.g., `home_screen.png`, `detail_screen.png`) inside this folder.
+3. The above Markdown code will automatically display these screenshots in your GitHub repository's `README.md` file. Just make sure to match the file names accordingly.
