@@ -1,16 +1,32 @@
-# anime_toon
+# Webtoon App
 
-A new Flutter project.
+A Flutter app that allows users to browse webtoon genres and view detailed information about selected webtoons. Users can also add their favorite webtoons to a favorites list.
+
+## Features
+
+- Browse a list of webtoon genres.
+- View detailed information about a selected webtoon, including images and descriptions.
+- Add webtoons to favorites.
+
+## Screenshots
+
+| Home Screen | Detail Screen |
+|-------------|---------------|
+| ![Home Screen](screenshots/home_screen.png) | ![Detail Screen](screenshots/detail_screen.png) |
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+To run this project, you need the following:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev) installed on your machine.
+- A working internet connection to fetch webtoon data from the API.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/webtoon-app.git
+   cd webtoon-app
