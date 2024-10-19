@@ -12,7 +12,7 @@ A Flutter app that allows users to browse webtoon genres and view detailed infor
 
 | Home Screen | Detail Screen |
 |-------------|---------------|
-| ![Home Screen](screenshots/home_screen.png) | ![Detail Screen](screenshots/detail_screen.png) |
+| ![Home Screen](screenshots/home_screen.jpg) | ![Detail Screen](screenshots/details_screen.jpg) |
 
 ## Getting Started
 
