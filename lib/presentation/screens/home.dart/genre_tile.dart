@@ -17,6 +17,8 @@ class GenreTile extends StatelessWidget {
     if (!favorites.contains(title)) {
       favorites.add(title);
       await prefs.setStringList('favorites', favorites);
+
+      
     }
   }
 
