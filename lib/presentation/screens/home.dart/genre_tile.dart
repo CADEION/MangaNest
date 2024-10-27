@@ -22,6 +22,9 @@ class GenreTile extends StatelessWidget {
     }
   }
 
+
+  //Hi this is Angela Yu
+
   @override
   Widget build(BuildContext context) {
     return GestureDetector(
