@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_bloc/flutter_bloc.dart'; // Import the flutter_bloc package
+import 'package:flutter_bloc/flutter_bloc.dart'; 
 import 'presentation/screens/cubit/favorites_cubit.dart';
-import 'presentation/screens/home.dart/home_screen.dart'; // Import your FavoritesCubit
+import 'presentation/screens/home.dart/home_screen.dart'; 
 
 void main() {
   runApp(const MyApp());
